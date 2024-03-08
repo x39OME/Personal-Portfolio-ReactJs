@@ -5,11 +5,13 @@
 - npm install react-bootstrap bootstrap
 - npm i bootstrap-icons
 - npm install react-bootstrap-icons --save
+- npm i react-multi-carousel
 
 ## What did we use in the project?
 ### 1- [React Js](https://react.dev/learn/installation)
 ### 2- [React Bootstrap](https://react-bootstrap.netlify.app/)
 ### 3- [React Bootstrap Icons](https://icons.getbootstrap.com/) - [npm](https://www.npmjs.com/package/react-bootstrap-icons)
+### 4- [React Multi Carousel](https://www.npmjs.com/package/react-multi-carousel)
 
 
 # Getting Started with Create React App
