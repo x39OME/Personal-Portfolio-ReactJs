@@ -8,7 +8,7 @@
 ## What did we use in the project?
 ### 1- [React Js](https://react.dev/learn/installation)
 ### 2- [React Bootstrap](https://react-bootstrap.netlify.app/)
-### 3- [React Bootstrap Icons](https://icons.getbootstrap.com/) [npm](https://www.npmjs.com/package/react-bootstrap-icons)
+### 3- [React Bootstrap Icons](https://icons.getbootstrap.com/) - [npm](https://www.npmjs.com/package/react-bootstrap-icons)
 
 
 # Getting Started with Create React App
