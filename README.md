@@ -1,8 +1,14 @@
 # Personal Website Sam React Js
- 
+
 - my new portfolio using React Js `Soon`
 - npx create-react-app my-app
 - npm install react-bootstrap bootstrap
+- npm i bootstrap-icons
+
+## What did we use in the project?
+### 1- [React Js](https://react.dev/learn/installation)
+### 2- [React Bootstrap](https://react-bootstrap.netlify.app/)
+### 3- [React Bootstrap Icons](https://icons.getbootstrap.com/)
 
 
 # Getting Started with Create React App
