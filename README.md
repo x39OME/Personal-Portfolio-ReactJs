@@ -4,6 +4,7 @@
 - npx create-react-app my-app
 - npm install react-bootstrap bootstrap
 - npm i bootstrap-icons
+- npm install react-bootstrap-icons --save
 
 ## What did we use in the project?
 ### 1- [React Js](https://react.dev/learn/installation)
