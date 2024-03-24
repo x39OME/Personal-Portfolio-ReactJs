@@ -6,6 +6,9 @@
 - npm i bootstrap-icons
 - npm install react-bootstrap-icons --save
 - npm i react-multi-carousel
+- npm i nodemailer
+- npm i express-cors
+- npm i react-mailchimp-subscribe
 
 ## What did we use in the project?
 ### 1- [React Js](https://react.dev/learn/installation)
