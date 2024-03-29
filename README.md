@@ -15,6 +15,7 @@
 ### 2- [React Bootstrap](https://react-bootstrap.netlify.app/)
 ### 3- [React Bootstrap Icons](https://icons.getbootstrap.com/) - [npm](https://www.npmjs.com/package/react-bootstrap-icons)
 ### 4- [React Multi Carousel](https://www.npmjs.com/package/react-multi-carousel)
+### 4- [Eepurl](http://www.eepurl.com/) [New Eepurl](https://mailchimp.com/)
 
 
 # Getting Started with Create React App
