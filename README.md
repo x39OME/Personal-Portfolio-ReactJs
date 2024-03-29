@@ -8,7 +8,7 @@
 - npm i react-multi-carousel
 - npm i nodemailer
 - npm i express-cors
-- npm i react-mailchimp-subscribe
+- [npm i react-mailchimp-subscribe](https://www.npmjs.com/package/react-mailchimp-subscribe)
 
 ## What did we use in the project?
 ### 1- [React Js](https://react.dev/learn/installation)
