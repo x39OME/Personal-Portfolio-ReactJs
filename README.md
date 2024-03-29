@@ -1,5 +1,14 @@
 # Personal Website Sam React Js
 
+## What did we use in the project?
+### 1- [React Js](https://react.dev/learn/installation)
+### 2- [React Bootstrap](https://react-bootstrap.netlify.app/)
+### 3- [React Bootstrap Icons](https://icons.getbootstrap.com/) - [npm](https://www.npmjs.com/package/react-bootstrap-icons)
+### 4- [React Multi Carousel](https://www.npmjs.com/package/react-multi-carousel)
+### 5- [Eepurl](http://www.eepurl.com/) | [New Eepurl](https://mailchimp.com/)
+### 6- [Animate.css](https://animate.style/)
+
+
 - my new portfolio using React Js `Soon`
 - npx create-react-app my-app
 - npm install react-bootstrap bootstrap
@@ -9,14 +18,6 @@
 - npm i nodemailer
 - npm i express-cors
 - [npm i react-mailchimp-subscribe](https://www.npmjs.com/package/react-mailchimp-subscribe)
-
-## What did we use in the project?
-### 1- [React Js](https://react.dev/learn/installation)
-### 2- [React Bootstrap](https://react-bootstrap.netlify.app/)
-### 3- [React Bootstrap Icons](https://icons.getbootstrap.com/) - [npm](https://www.npmjs.com/package/react-bootstrap-icons)
-### 4- [React Multi Carousel](https://www.npmjs.com/package/react-multi-carousel)
-### 5- [Eepurl](http://www.eepurl.com/) | [New Eepurl](https://mailchimp.com/)
-### 6- [Animate.css](https://animate.style/)
 
 
 # Getting Started with Create React App
