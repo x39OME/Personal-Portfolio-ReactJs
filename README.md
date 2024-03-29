@@ -18,6 +18,8 @@
 - npm i nodemailer
 - npm i express-cors
 - [npm i react-mailchimp-subscribe](https://www.npmjs.com/package/react-mailchimp-subscribe)
+- npm install animate.css --save
+- npm i react-on-screen
 
 
 # Getting Started with Create React App
