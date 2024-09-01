@@ -21,7 +21,11 @@
 - npm install animate.css --save
 - npm i react-on-screen
 
-## Publish A React App To GitHub Pages
+## Publish A React App To GitHub Pages [react-gh-pages](https://github.com/x39OME/react-gh-pages?tab=readme-ov-file#3-install-the-gh-pages-npm-package)
+- npm install gh-pages --save-dev
+- package.json add "homepage":"https://x39ome.github.io/essam",
+- 
+
 
 
 # Getting Started with Create React App
