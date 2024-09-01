@@ -21,6 +21,8 @@
 - npm install animate.css --save
 - npm i react-on-screen
 
+## Publish A React App To GitHub Pages
+
 
 # Getting Started with Create React App
 
