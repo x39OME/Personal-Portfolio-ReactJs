@@ -23,8 +23,17 @@
 
 ## Publish A React App To GitHub Pages [react-gh-pages](https://github.com/x39OME/react-gh-pages?tab=readme-ov-file#3-install-the-gh-pages-npm-package)
 - npm install gh-pages --save-dev
-- package.json add "homepage":"https://x39ome.github.io/essam",
-- 
+- package.json add
+  ```
+  "homepage":"https://x39ome.github.io/essam",
+  "scripts": {
+     "predeploy": "npm run build",
+     "deploy": "gh-pages -d build",
+     "start": "react-scripts start",
+     "build": "react-scripts build",        
+- git init
+- git remote add origin https://github.com/x39OME/essam.git
+- npm run deploy
 
 
 
