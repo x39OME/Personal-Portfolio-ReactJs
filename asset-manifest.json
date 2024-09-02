@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/essam/static/css/main.38194aea.css",
+    "main.css": "/essam/static/css/main.beef1fb5.css",
     "main.js": "/essam/static/js/main.b437a1bb.js",
     "static/js/453.5acd3821.chunk.js": "/essam/static/js/453.5acd3821.chunk.js",
     "static/media/meteorite.gif": "/essam/static/media/meteorite.82af382d1fe7a3a4459b.gif",
@@ -87,12 +87,12 @@
     "static/media/css.svg": "/essam/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.38194aea.css.map": "/essam/static/css/main.38194aea.css.map",
+    "main.beef1fb5.css.map": "/essam/static/css/main.beef1fb5.css.map",
     "main.b437a1bb.js.map": "/essam/static/js/main.b437a1bb.js.map",
     "453.5acd3821.chunk.js.map": "/essam/static/js/453.5acd3821.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38194aea.css",
+    "static/css/main.beef1fb5.css",
     "static/js/main.b437a1bb.js"
   ]
 }
