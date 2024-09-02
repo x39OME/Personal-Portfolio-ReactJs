@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/essam/static/css/main.3b570103.css",
-    "main.js": "/essam/static/js/main.8c91e640.js",
+    "main.css": "/essam/static/css/main.44d981a7.css",
+    "main.js": "/essam/static/js/main.efbab6a5.js",
     "static/js/453.5acd3821.chunk.js": "/essam/static/js/453.5acd3821.chunk.js",
     "static/media/meteorite.gif": "/essam/static/media/meteorite.82af382d1fe7a3a4459b.gif",
     "static/media/moon-stars.gif": "/essam/static/media/moon-stars.f039bd98bfda511cb156.gif",
@@ -87,12 +87,12 @@
     "static/media/css.svg": "/essam/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.3b570103.css.map": "/essam/static/css/main.3b570103.css.map",
-    "main.8c91e640.js.map": "/essam/static/js/main.8c91e640.js.map",
+    "main.44d981a7.css.map": "/essam/static/css/main.44d981a7.css.map",
+    "main.efbab6a5.js.map": "/essam/static/js/main.efbab6a5.js.map",
     "453.5acd3821.chunk.js.map": "/essam/static/js/453.5acd3821.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b570103.css",
-    "static/js/main.8c91e640.js"
+    "static/css/main.44d981a7.css",
+    "static/js/main.efbab6a5.js"
   ]
 }
