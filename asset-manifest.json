@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/essam/static/css/main.ca19b441.css",
-    "main.js": "/essam/static/js/main.3768b90c.js",
+    "main.css": "/essam/static/css/main.38194aea.css",
+    "main.js": "/essam/static/js/main.b437a1bb.js",
     "static/js/453.5acd3821.chunk.js": "/essam/static/js/453.5acd3821.chunk.js",
     "static/media/meteorite.gif": "/essam/static/media/meteorite.82af382d1fe7a3a4459b.gif",
+    "static/media/uranus.gif": "/essam/static/media/uranus.3af6603473479025f1c8.gif",
     "static/media/moon-stars.gif": "/essam/static/media/moon-stars.f039bd98bfda511cb156.gif",
-    "static/media/uranus.gif": "/essam/static/media/uranus.f039bd98bfda511cb156.gif",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/wood-website.png": "/essam/static/media/wood-website.f4404f562fd361c14527.png",
     "static/media/squad-game-website.png": "/essam/static/media/squad-game-website.28a7d4a4fbe3b5a63ebe.png",
@@ -87,12 +87,12 @@
     "static/media/css.svg": "/essam/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.ca19b441.css.map": "/essam/static/css/main.ca19b441.css.map",
-    "main.3768b90c.js.map": "/essam/static/js/main.3768b90c.js.map",
+    "main.38194aea.css.map": "/essam/static/css/main.38194aea.css.map",
+    "main.b437a1bb.js.map": "/essam/static/js/main.b437a1bb.js.map",
     "453.5acd3821.chunk.js.map": "/essam/static/js/453.5acd3821.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca19b441.css",
-    "static/js/main.3768b90c.js"
+    "static/css/main.38194aea.css",
+    "static/js/main.b437a1bb.js"
   ]
 }
