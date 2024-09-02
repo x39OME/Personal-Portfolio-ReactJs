@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/essam/static/css/main.44d981a7.css",
-    "main.js": "/essam/static/js/main.efbab6a5.js",
+    "main.css": "/essam/static/css/main.ca19b441.css",
+    "main.js": "/essam/static/js/main.3768b90c.js",
     "static/js/453.5acd3821.chunk.js": "/essam/static/js/453.5acd3821.chunk.js",
     "static/media/meteorite.gif": "/essam/static/media/meteorite.82af382d1fe7a3a4459b.gif",
     "static/media/moon-stars.gif": "/essam/static/media/moon-stars.f039bd98bfda511cb156.gif",
@@ -53,19 +53,19 @@
     "static/media/revicons.ttf": "/essam/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/reactnative.svg": "/essam/static/media/reactnative.55360266b3781dae00a5a77c8916f82d.svg",
     "static/media/revicons.woff": "/essam/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/certificates.svg": "/essam/static/media/certificates.1240dee744fb7c915c605e1adbbc7761.svg",
     "static/media/progress2.svg": "/essam/static/media/progress2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
     "static/media/progress1.svg": "/essam/static/media/progress1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/mysql.svg": "/essam/static/media/mysql.0697e026464104aea8919845703174b9.svg",
     "static/media/sass.svg": "/essam/static/media/sass.8aa78a8393470431c8036541f0708bd7.svg",
     "static/media/progress3.svg": "/essam/static/media/progress3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/xampp.svg": "/essam/static/media/xampp.ed27b4877fcfd2fd74dc95e8dc2152ed.svg",
-    "static/media/award.svg": "/essam/static/media/award.622f9538452b6d50e8bfafc4c6585e82.svg",
     "static/media/react.svg": "/essam/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
-    "static/media/completed.svg": "/essam/static/media/completed.d48d6e2f966d2d644bf58ea41e058298.svg",
+    "static/media/certificates.svg": "/essam/static/media/certificates.6f0d9120fa0f71d2e08f2d742a9ead18.svg",
     "static/media/nodejs.svg": "/essam/static/media/nodejs.615ffbea9529ca7047ed8a912bfd94b2.svg",
     "static/media/nav-icon6.svg": "/essam/static/media/nav-icon6.defb476d2dce559337545643fbf6a39a.svg",
     "static/media/laravel.svg": "/essam/static/media/laravel.ba995bd47e3a7cc141cc1c9aaa1ac583.svg",
+    "static/media/completed.svg": "/essam/static/media/completed.9a0cf1191428f5c96217d591c7b4a3f5.svg",
+    "static/media/award.svg": "/essam/static/media/award.c5dd627fbd8bb52d47a3bca4241f53db.svg",
     "static/media/nav-icon2.svg": "/essam/static/media/nav-icon2.69af2589cb5ec0150855935fed2f0f3f.svg",
     "static/media/nav-icon3.svg": "/essam/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "static/media/laragon.svg": "/essam/static/media/laragon.d23333221809c3f1ef29ba45c55bcde4.svg",
@@ -87,12 +87,12 @@
     "static/media/css.svg": "/essam/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.44d981a7.css.map": "/essam/static/css/main.44d981a7.css.map",
-    "main.efbab6a5.js.map": "/essam/static/js/main.efbab6a5.js.map",
+    "main.ca19b441.css.map": "/essam/static/css/main.ca19b441.css.map",
+    "main.3768b90c.js.map": "/essam/static/js/main.3768b90c.js.map",
     "453.5acd3821.chunk.js.map": "/essam/static/js/453.5acd3821.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44d981a7.css",
-    "static/js/main.efbab6a5.js"
+    "static/css/main.ca19b441.css",
+    "static/js/main.3768b90c.js"
   ]
 }
